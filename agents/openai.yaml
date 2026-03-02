@@ -1,0 +1,10 @@
+interface:
+  display_name: "OpenRAG-Skill"
+  short_description: "Evidence-first prompt RAG for context already provided"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.svg"
+  brand_color: "#11707B"
+  default_prompt: "Use $rag to answer only from the provided material and cite every material claim."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local skill install copies
+.claude/
+
+# Scratch and test artifacts
+tmp/
+*.tmp
+*.log
+answer.md

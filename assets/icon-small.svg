@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="OpenRAG-Skill icon">
+  <defs>
+    <linearGradient id="orsBgSmall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FBFC"/>
+      <stop offset="100%" stop-color="#E6EFF3"/>
+    </linearGradient>
+    <linearGradient id="orsTagSmall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F8FD5"/>
+      <stop offset="100%" stop-color="#0E6F8E"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#orsBgSmall)"/>
+  <rect x="14" y="18" width="24" height="28" rx="6" fill="#D9E6EC"/>
+  <path d="M24 12h16l8 8v24a8 8 0 0 1-8 8H24a8 8 0 0 1-8-8V20a8 8 0 0 1 8-8z" fill="#FFFFFF"/>
+  <path d="M40 12v8h8" fill="#EAF3F7"/>
+  <path d="M40 12l8 8" fill="none" stroke="#D3E0E7" stroke-width="1.6" stroke-linejoin="round"/>
+  <line x1="24" y1="26" x2="40" y2="26" stroke="#98B0BC" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="24" y1="32" x2="40" y2="32" stroke="#98B0BC" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="24" y1="38" x2="34" y2="38" stroke="#98B0BC" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="33" y="35" width="18" height="12" rx="4" fill="url(#orsTagSmall)"/>
+  <path d="M38 38h-1.8v5H38" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="42" cy="40.5" r="1.6" fill="#FFFFFF"/>
+  <path d="M46 38h1.8v5H46" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 51h30" stroke="#F05A3D" stroke-width="2.8" stroke-linecap="round" opacity="0.95"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" role="img" aria-label="OpenRAG-Skill logo">
+  <defs>
+    <linearGradient id="orsBgLarge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8FBFC"/>
+      <stop offset="100%" stop-color="#E7EFF3"/>
+    </linearGradient>
+    <linearGradient id="orsPanelLarge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#137E8B"/>
+      <stop offset="100%" stop-color="#0E5B67"/>
+    </linearGradient>
+    <linearGradient id="orsTagLarge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1F8FD5"/>
+      <stop offset="100%" stop-color="#0E6F8E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="240" rx="28" fill="url(#orsBgLarge)"/>
+  <rect x="28" y="28" width="160" height="184" rx="28" fill="url(#orsPanelLarge)"/>
+  <rect x="56" y="72" width="70" height="88" rx="14" fill="#B7D5DE" opacity="0.55"/>
+  <path d="M82 52h46l18 18v86a16 16 0 0 1-16 16H82a16 16 0 0 1-16-16V68a16 16 0 0 1 16-16z" fill="#FFFFFF"/>
+  <path d="M128 52v18h18" fill="#EAF3F7"/>
+  <path d="M128 52l18 18" fill="none" stroke="#D2E0E6" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="88" y1="88" x2="126" y2="88" stroke="#8DA7B3" stroke-width="6" stroke-linecap="round"/>
+  <line x1="88" y1="104" x2="126" y2="104" stroke="#8DA7B3" stroke-width="6" stroke-linecap="round"/>
+  <line x1="88" y1="120" x2="116" y2="120" stroke="#8DA7B3" stroke-width="6" stroke-linecap="round"/>
+  <rect x="112" y="118" width="40" height="28" rx="10" fill="url(#orsTagLarge)"/>
+  <path d="M123 126h-4v12h4" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="132" cy="132" r="3.6" fill="#FFFFFF"/>
+  <path d="M141 126h4v12h-4" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 186h84" stroke="#F05A3D" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="220" y="86" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" font-size="34" font-weight="700" fill="#152C35">OpenRAG-Skill</text>
+  <text x="220" y="118" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" font-size="18" fill="#35525C">Evidence-first prompt RAG</text>
+  <text x="220" y="142" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" font-size="18" fill="#35525C">for material already in the chat</text>
+
+  <rect x="220" y="166" width="142" height="28" rx="8" fill="#4A4A4A"/>
+  <rect x="320" y="166" width="42" height="28" rx="8" fill="#0B84D8"/>
+  <text x="234" y="185" font-family="'Trebuchet MS', sans-serif" font-size="15" fill="#FFFFFF">Claude Code</text>
+  <text x="331" y="185" font-family="'Trebuchet MS', sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Skill</text>
+
+  <rect x="372" y="166" width="68" height="28" rx="8" fill="#4A4A4A"/>
+  <rect x="419" y="166" width="44" height="28" rx="8" fill="#87C400"/>
+  <text x="385" y="185" font-family="'Trebuchet MS', sans-serif" font-size="15" fill="#FFFFFF">License</text>
+  <text x="431" y="185" font-family="'Trebuchet MS', sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">MIT</text>
+</svg>
